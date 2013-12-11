@@ -1,3 +1,7 @@
+= DEPRECATION WARNING!!!
+
+This repository is out of date and unmaintained and is available strictly for historical purposes. If you are interested in using Chef with OpenStack, please use the StackForge cookbooks and repository based out of https://github.com/stackforge/openstack-chef-repo
+
 = Openstack Cookbooks
 
 A set of Chef cookbooks for Openstack.
